@@ -1,0 +1,3 @@
+CELL_SIZE = 128
+C_WIDTH = 4
+C_HEIGHT = 4
